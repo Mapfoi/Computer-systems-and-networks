@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UDP Server.vcxproj" Id="60e9439c-60b9-4c62-855c-8e446f13df47" />
+</Solution>
