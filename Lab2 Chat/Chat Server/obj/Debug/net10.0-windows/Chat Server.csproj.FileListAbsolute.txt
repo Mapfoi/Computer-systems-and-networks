@@ -1,0 +1,17 @@
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\bin\Debug\net10.0-windows\Chat Server.exe
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\bin\Debug\net10.0-windows\Chat Server.deps.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\bin\Debug\net10.0-windows\Chat Server.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\bin\Debug\net10.0-windows\Chat Server.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\bin\Debug\net10.0-windows\Chat Server.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat_Server.Form1.resources
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.csproj.GenerateResource.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.sourcelink.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\refint\Chat Server.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\Chat Server.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Server\obj\Debug\net10.0-windows\ref\Chat Server.dll
