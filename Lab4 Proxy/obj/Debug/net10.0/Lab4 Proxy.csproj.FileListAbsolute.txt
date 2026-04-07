@@ -1,0 +1,25 @@
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.sourcelink.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Lab4 Proxy.exe
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Lab4 Proxy.deps.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Lab4 Proxy.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Lab4 Proxy.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Lab4 Proxy.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.csproj.Up2Date
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\refint\Lab4 Proxy.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\Lab4 Proxy.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab4 Proxy\obj\Debug\net10.0\ref\Lab4 Proxy.dll
