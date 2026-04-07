@@ -1,0 +1,17 @@
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\bin\Release\net10.0-windows\win-x64\Chat Client.exe
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\bin\Release\net10.0-windows\win-x64\Chat Client.deps.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\bin\Release\net10.0-windows\win-x64\Chat Client.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\bin\Release\net10.0-windows\win-x64\Chat Client.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\bin\Release\net10.0-windows\win-x64\Chat Client.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat_Client.Form1.resources
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.csproj.GenerateResource.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.sourcelink.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\refint\Chat Client.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\Chat Client.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab2 Chat\Chat Client\obj\Release\net10.0-windows\win-x64\ref\Chat Client.dll
