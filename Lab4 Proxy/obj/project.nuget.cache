@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHyxiYb4gpM=",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\Microsoft Visual Studio\\Projects\\Computer-systems-and-networks\\Lab4 Proxy\\Lab4 Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.5\\microsoft.extensions.configuration.fileextensions.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.5\\microsoft.extensions.configuration.json.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.5\\microsoft.extensions.fileproviders.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.5\\microsoft.extensions.fileproviders.physical.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.5\\microsoft.extensions.filesystemglobbing.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
