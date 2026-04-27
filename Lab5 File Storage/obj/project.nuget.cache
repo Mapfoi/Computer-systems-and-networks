@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikhI2Yg1OLo=",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\Microsoft Visual Studio\\Projects\\Computer-systems-and-networks\\Lab5 File Storage\\Lab5 File Storage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\sevae\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

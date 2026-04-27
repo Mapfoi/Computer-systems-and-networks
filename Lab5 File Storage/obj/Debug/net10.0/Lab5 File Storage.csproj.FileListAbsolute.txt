@@ -1,0 +1,35 @@
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\appsettings.Development.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\appsettings.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Lab5 File Storage.staticwebassets.endpoints.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Lab5 File Storage.exe
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Lab5 File Storage.deps.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Lab5 File Storage.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Lab5 File Storage.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Lab5 File Storage.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.MvcApplicationPartsAssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.MvcApplicationPartsAssemblyInfo.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.sourcelink.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\scopedcss\bundle\Lab5 File Storage.styles.css
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\staticwebassets.build.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\staticwebassets.development.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\swae.build.ex.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 Fil.47BE7162.Up2Date
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\refint\Lab5 File Storage.dll
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\Lab5 File Storage.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio\Projects\Computer-systems-and-networks\Lab5 File Storage\obj\Debug\net10.0\ref\Lab5 File Storage.dll
